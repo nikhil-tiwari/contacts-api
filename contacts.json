@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Sarita",
+    "lastName": "Tiwari",
+    "number": "9999991234",
+    "type": "personal"
+  },
+  {
+    "firstName": "Papa",
+    "lastName": "Tiwari",
+    "number": "9999999900",
+    "type": "personal"
+  },
+  {
+    "firstName": "Scaler",
+    "lastName": "someone",
+    "number": "8888888888",
+    "type": "work"
+  },
+  {
+    "firstName": "Nikhil",
+    "lastName": "Tiwari",
+    "number": "9999999999",
+    "type": "myself"
+  }
+]
